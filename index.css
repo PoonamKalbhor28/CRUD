@@ -1,0 +1,62 @@
+body {
+  display: block;
+  margin: 0px;
+}
+.customTable {
+  padding: 22px;
+  top: 20vw;
+}
+.custom-img {
+  height: 5vw;
+  width: 7vw;
+  padding: 0px 14px;
+}
+.Custom-Navbar {
+  background-color: #fff;
+  width: 100%;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #e1e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  z-index: 10;
+  top: 0;
+}
+.custom-Icon {
+  display: flex;
+  align-items: center;
+  padding: 0px 20px;
+}
+.custom-Icon .pi {
+  font-size: 22px;
+  color: #b74c4c;
+}
+.custom-Align {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Cust-Text {
+  font-size: 18px;
+}
+.p-column-filter.p-inputtext.p-component {
+  padding: 8px 10px;
+}
+.p-icon {
+  width: 0.7rem;
+  height: 0.7rem;
+}
+.p-dropdown-label.p-inputtext.p-placeholder {
+  padding: 8px 10px;
+}
+.p-datatable-header {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.p-paginator {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border: 1px solid #e6e5e5;
+}
